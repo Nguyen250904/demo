@@ -1,0 +1,92 @@
+﻿@model IEnumerable<nguyennhatnguyen2122110318.Context.Category>
+
+@{
+    ViewBag.Title = "CategoryList";
+}
+
+<h2>CategoryList</h2>
+
+<p>
+    <div style="text-align: center;">
+        @Html.ActionLink("Create New", "Create", null, new { style = "background-color: #007BFF; color: white; padding: 10px 50px; text-decoration: none; border-radius: 5px; display: inline-block;" })
+    </div>
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Avatar)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Slug)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ShowOnHomePage)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DisplayOrder)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Deleted)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CreatedOnUtc)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UpdatedOnUtc)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            <img src="@Url.Content("~/Content/images/items/" + item.Avatar)" alt="Avatar" class="img-thumbnail" style="max-width: 100px; height: auto;" />
+
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Slug)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ShowOnHomePage)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DisplayOrder)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Deleted)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CreatedOnUtc)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UpdatedOnUtc)
+        </td>
+        <td>
+           
+            @Html.ActionLink(" Edit", "Edit", new { id = item.Id }, new { @class = "fa fa-edit", style = "color: blue; padding: 5px 10px; text-decoration: none; border-radius: 5px; background-color: #007BFF; color: white;" })
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-k6RqeWeci5ZR/Lv4MR0sA0FfDOMK4yZgCs1N3k6leJx7ZlJ8V/tgD8M9ujHZ4Z4" crossorigin="anonymous">
+
+
+
+
+            @Html.ActionLink(" Details", "Details", new { id = item.Id }, new { @class = "fa fa-info-circle", style = "color: blue; padding: 4px 9px; text-decoration: none; border-radius: 5px; background-color: #28a745; color: white;" })
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-k6RqeWeci5ZR/Lv4MR0sA0FfDOMK4yZgCs1N3k6leJx7ZlJ8V/tgD8M9ujHZ4Z4" crossorigin="anonymous">
+
+
+
+            @Html.ActionLink(" Delete", "Delete", new { id = item.Id }, new { @class = "fa fa-trash", style = "background-color: #dc3545; color: white; padding: 5px 10px; text-decoration: none; border-radius: 5px;" })
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-k6RqeWeci5ZR/Lv4MR0sA0FfDOMK4yZgCs1N3k6leJx7ZlJ8V/tgD8M9ujHZ4Z4" crossorigin="anonymous">
+
+
+        </td>
+
+    </tr>
+}
+
+</table>

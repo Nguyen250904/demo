@@ -17,7 +17,9 @@ namespace nguyennhatnguyen2122110318.Areas.Admin
             context.MapRoute(
                 "Admin_default",
                 "Admin/{controller}/{action}/{id}",
-                new { action = "Index", id = UrlParameter.Optional }
+                new { action = "Index", id = UrlParameter.Optional },
+                                new[] { "nguyennhatnguyen2122110318.Areas.Admin.Controllers" }
+
             );
         }
     }

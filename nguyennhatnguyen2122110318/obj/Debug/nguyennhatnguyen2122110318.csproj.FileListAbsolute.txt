@@ -77,3 +77,7 @@ C:\Users\ACER\Pictures\asp\nguyennhatnguyen2122110318\nguyennhatnguyen2122110318
 C:\Users\ACER\Pictures\asp\nguyennhatnguyen2122110318\nguyennhatnguyen2122110318\obj\Debug\nguyennh.D335EBA4.Up2Date
 C:\Users\ACER\Pictures\asp\nguyennhatnguyen2122110318\nguyennhatnguyen2122110318\obj\Debug\nguyennhatnguyen2122110318.dll
 C:\Users\ACER\Pictures\asp\nguyennhatnguyen2122110318\nguyennhatnguyen2122110318\obj\Debug\nguyennhatnguyen2122110318.pdb
+C:\Users\ACER\Pictures\asp\nguyennhatnguyen2122110318\nguyennhatnguyen2122110318\bin\EntityFramework.dll
+C:\Users\ACER\Pictures\asp\nguyennhatnguyen2122110318\nguyennhatnguyen2122110318\bin\EntityFramework.SqlServer.dll
+C:\Users\ACER\Pictures\asp\nguyennhatnguyen2122110318\nguyennhatnguyen2122110318\bin\EntityFramework.xml
+C:\Users\ACER\Pictures\asp\nguyennhatnguyen2122110318\nguyennhatnguyen2122110318\bin\EntityFramework.SqlServer.xml

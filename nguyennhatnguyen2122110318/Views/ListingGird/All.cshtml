@@ -1,0 +1,190 @@
+﻿@model nguyennhatnguyen2122110318.Models.HomeModel
+
+@{
+    ViewBag.Title = "All";
+}
+<!-- ========================= SECTION CONTENT ========================= -->
+<section class="section-content padding-y">
+    <div class="container">
+
+        <header class="mb-3">
+            <div class="form-inline">
+
+            </div>
+        </header><!-- sect-heading -->
+
+        <div class="row" id="product-list">
+            @foreach (var item in Model.ListProduct)
+            {
+                <div class="col-md-3">
+                    <figure class="card card-product-grid">
+                        <div class="img-wrap">
+                            <span class="badge badge-danger"> NEW </span>
+                            <a href="@Url.Action("Detail", "Product", new { Id = item.Id }, null)">
+                                <img src="~/Content/images/items/@item.Avatar">
+                            </a>
+                        </div> <!-- img-wrap.// -->
+                        <figcaption class="info-wrap">
+                            @Html.ActionLink(item.Name, "Detail", "Product", new { Id = item.Id }, null)
+                            <div class="price-wrap">
+                                <span class="price">@item.Price</span>
+                            </div> <!-- price-wrap.// -->
+
+
+                            <p class="text-muted ">@item.FullDescription</p>
+
+                            <hr />
+
+                            <a href="@Url.Action("Detail", "Product", new { Id = item.Id }, null)" class="btn btn-primary">Xem chi tiết</a>
+
+                        </figcaption>
+                    </figure>
+                </div> <!-- col.// -->
+            }
+        </div> <!-- row end.// -->
+
+
+        <nav class="mb-4" aria-label="Page navigation sample">
+            <ul class="pagination justify-content-center" id="pagination-controls">
+                <nav class="mb-4" aria-label="Page navigation sample">
+                    <ul class="pagination">
+                        <li class="page-item disabled"><a class="page-link" href="#">Previous</a></li>
+                        <li class="page-item active"><a class="page-link" href="#">1</a></li>
+                        <li class="page-item"><a class="page-link" href="#">2</a></li>
+                        <li class="page-item"><a class="page-link" href="#">3</a></li>
+                        <li class="page-item"><a class="page-link" href="#">4</a></li>
+                        <li class="page-item"><a class="page-link" href="#">5</a></li>
+                        <li class="page-item"><a class="page-link" href="#">Next</a></li>
+                    </ul>
+                </nav>
+            </ul>
+        </nav>
+
+
+        <script>
+            document.addEventListener("DOMContentLoaded", function () {
+const pageSize = 10; // Number of items per page
+                let currentPage = 1;
+
+                function fetchProducts(page) {
+                    fetch(`/Home/GetProducts?page=${page}&pageSize=${pageSize}`)
+                        .then(response => response.json())
+                        .then(data => {
+                            renderProducts(data.Products);
+                            renderPagination(data.TotalPages, data.CurrentPage);
+                        })
+                        .catch(error => console.error('Error fetching products:', error));
+                }
+
+                function renderProducts(products) {
+                    const productList = document.getElementById('product-list');
+                    productList.innerHTML = ''; // Clear previous products
+
+                    products.forEach(product => {
+                        const productDiv = document.createElement('div');
+                        productDiv.className = 'col-md-3';
+                        productDiv.innerHTML = `
+                        <figure class="card card-product-grid">
+                            <div class="img-wrap">
+                                <span class="badge badge-danger"> NEW </span>
+                                <a href="/Product/Detail/${product.Id}">
+                                    <img src="/Content/images/items/${product.Avatar}">
+                                </a>
+                            </div> <!-- img-wrap.// -->
+                            <figcaption class="info-wrap">
+                                <a href="/Product/Detail/${product.Id}">${product.Name}</a>
+                                <div class="price-wrap">
+                                    <span class="price">${product.Price}</span>
+                                </div> <!-- price-wrap.// -->
+                                <p class="text-muted ">${product.FullDescription}</p>
+                                <hr />
+                                <a href="/Product/Detail/${product.Id}" class="btn btn-primary">Xem chi tiết</a>
+                            </figcaption>
+                        </figure>
+                    `;
+                        productList.appendChild(productDiv);
+                    });
+                }
+
+                function renderPagination(totalPages, currentPage) {
+                    const paginationControls = document.getElementById('pagination-controls');
+                    paginationControls.innerHTML = ''; // Clear previous pagination controls
+
+                    if (currentPage > 1) {
+                        const prevLi = document.createElement('li');
+                        prevLi.className = 'page-item';
+                        prevLi.innerHTML = `<a class="page-link" href="#">Previous</a>`;
+                        prevLi.addEventListener('click', function (e) {
+                            e.preventDefault();
+                            fetchProducts(currentPage - 1);
+                        });
+paginationControls.appendChild(prevLi);
+                    } else {
+                        const prevLi = document.createElement('li');
+                        prevLi.className = 'page-item disabled';
+                        prevLi.innerHTML = `<a class="page-link" href="#">Previous</a>`;
+                        paginationControls.appendChild(prevLi);
+                    }
+
+                    for (let i = 1; i <= totalPages; i++) {
+                        const li = document.createElement('li');
+                        li.className = `page-item ${i === currentPage ? 'active' : ''}`;
+                        li.innerHTML = `<a class="page-link" href="#">${i}</a>`;
+                        li.addEventListener('click', function (e) {
+                            e.preventDefault();
+                            fetchProducts(i);
+                        });
+                        paginationControls.appendChild(li);
+                    }
+
+                    if (currentPage < totalPages) {
+                        const nextLi = document.createElement('li');
+                        nextLi.className = 'page-item';
+                        nextLi.innerHTML = `<a class="page-link" href="#">Next</a>`;
+                        nextLi.addEventListener('click', function (e) {
+                            e.preventDefault();
+                            fetchProducts(currentPage + 1);
+                        });
+                        paginationControls.appendChild(nextLi);
+                    } else {
+                        const nextLi = document.createElement('li');
+                        nextLi.className = 'page-item disabled';
+                        nextLi.innerHTML = `<a class="page-link" href="#">Next</a>`;
+                        paginationControls.appendChild(nextLi);
+                    }
+                }
+
+                // Initial fetch
+                fetchProducts(currentPage);
+            });
+        </script>
+
+
+
+        </> <!-- container .//  -->
+</section>
+<!-- ========================= SECTION CONTENT END// ========================= -->
+<!-- ========================= SECTION SUBSCRIBE  ========================= -->
+<section class="padding-y-lg bg-light border-top">
+    <div class="container">
+
+        <p class="pb-2 text-center">Delivering the latest product trends and industry news straight to your inbox</p>
+
+        <div class="row justify-content-md-center">
+            <div class="col-lg-4 col-sm-6">
+                <form class="form-row">
+                    <div class="col-8">
+                        <input class="form-control" placeholder="Your Email" type="email">
+                    </div> <!-- col.// -->
+                    <div class="col-4">
+                        <button type="submit" class="btn btn-block btn-warning"> <i class="fa fa-envelope"></i> Subscribe </button>
+                    </div> <!-- col.// -->
+                </form>
+                <small class="form-text">We’ll never share your email address with a third-party. </small>
+            </div> <!-- col-md-6.// -->
+        </div>
+
+
+    </div>
+</section>
+<!-- ========================= SECTION SUBSCRIBE END// ========================= -->

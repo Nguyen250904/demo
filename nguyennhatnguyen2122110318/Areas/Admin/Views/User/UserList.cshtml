@@ -1,0 +1,70 @@
+﻿@model IEnumerable<nguyennhatnguyen2122110318.Context.User>
+
+@{
+    ViewBag.Title = "UserList";
+}
+
+<h2>UserList</h2>
+
+<p>
+    <div style="text-align: center;">
+        @Html.ActionLink("Create New", "Create", null, new { style = "background-color: #007BFF; color: white; padding: 10px 50px; text-decoration: none; border-radius: 5px; display: inline-block;" })
+    </div>
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LastName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Password)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IsAdmin)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.FirstName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LastName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Password)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.IsAdmin)
+        </td>
+        <td>
+            @Html.ActionLink(" Edit", "Edit", new { id = item.Id }, new { @class = "fa fa-edit", style = "color: blue; padding: 5px 10px; text-decoration: none; border-radius: 5px; background-color: #007BFF; color: white;" })
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-k6RqeWeci5ZR/Lv4MR0sA0FfDOMK4yZgCs1N3k6leJx7ZlJ8V/tgD8M9ujHZ4Z4" crossorigin="anonymous">
+
+
+
+
+            @Html.ActionLink(" Details", "Details", new { id = item.Id }, new { @class = "fa fa-info-circle", style = "color: blue; padding: 4px 9px; text-decoration: none; border-radius: 5px; background-color: #28a745; color: white;" })
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-k6RqeWeci5ZR/Lv4MR0sA0FfDOMK4yZgCs1N3k6leJx7ZlJ8V/tgD8M9ujHZ4Z4" crossorigin="anonymous">
+
+
+
+            @Html.ActionLink(" Delete", "Delete", new { id = item.Id }, new { @class = "fa fa-trash", style = "background-color: #dc3545; color: white; padding: 5px 10px; text-decoration: none; border-radius: 5px;" })
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-k6RqeWeci5ZR/Lv4MR0sA0FfDOMK4yZgCs1N3k6leJx7ZlJ8V/tgD8M9ujHZ4Z4" crossorigin="anonymous">
+
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,123 @@
+﻿@model IEnumerable<nguyennhatnguyen2122110318.Context.Product>
+
+@{
+    ViewBag.Title = "ProductList";
+  
+
+}
+
+<h2>ProductList</h2>
+
+<p>
+<p>
+    <div style="text-align: center;">
+        @Html.ActionLink("Create New", "Create", null, new { style = "background-color: #007BFF; color: white; padding: 10px 50px; text-decoration: none; border-radius: 5px; display: inline-block;" })
+    </div>
+</p>
+
+@using (Html.BeginForm("ProductList", "Product", FormMethod.Get))
+{
+    <p>
+        Tìm tên sản phẩm: @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+        <input type="submit" value="Tìm kiếm" />
+    </p>
+}
+
+
+
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Avatar)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CategoryId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ShortDes)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FullDescription)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PriceDiscount)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TypeId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Slug)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BrandId)
+        </th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                <img src="@Url.Content("~/Content/images/items/" + item.Avatar)" alt="Avatar" class="img-thumbnail" style="max-width: 100px; height: auto;" />
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CategoryId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShortDes)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FullDescription)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PriceDiscount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TypeId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Slug)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BrandId)
+            </td>
+
+
+            <td>
+
+                @Html.ActionLink(" Edit", "Edit", new { id = item.Id }, new { @class = "fa fa-edit", style = "color: blue; padding: 5px 10px; text-decoration: none; border-radius: 5px; background-color: #007BFF; color: white;" })
+                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-k6RqeWeci5ZR/Lv4MR0sA0FfDOMK4yZgCs1N3k6leJx7ZlJ8V/tgD8M9ujHZ4Z4" crossorigin="anonymous">
+
+
+
+
+                @Html.ActionLink(" Details", "Details", new { id = item.Id }, new { @class = "fa fa-info-circle", style = "color: blue; padding: 4px 9px; text-decoration: none; border-radius: 5px; background-color: #28a745; color: white;" })
+                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-k6RqeWeci5ZR/Lv4MR0sA0FfDOMK4yZgCs1N3k6leJx7ZlJ8V/tgD8M9ujHZ4Z4" crossorigin="anonymous">
+
+
+
+                @Html.ActionLink(" Delete", "Delete", new { id = item.Id }, new { @class = "fa fa-trash", style = "background-color: #dc3545; color: white; padding: 5px 10px; text-decoration: none; border-radius: 5px;" })
+                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-k6RqeWeci5ZR/Lv4MR0sA0FfDOMK4yZgCs1N3k6leJx7ZlJ8V/tgD8M9ujHZ4Z4" crossorigin="anonymous">
+
+
+
+            </td>
+        </tr>
+    }
+
+</table>

@@ -3,84 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|c:\\users\\acer\\pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\views\\userregister\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|solutionrelative:nguyennhatnguyen2122110318\\views\\userregister\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|c:\\users\\acer\\pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|solutionrelative:nguyennhatnguyen2122110318\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\views\\userlogin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|solutionrelative:nguyennhatnguyen2122110318\\views\\userlogin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\views\\shoppingcart\\allshoppingcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|solutionrelative:nguyennhatnguyen2122110318\\views\\shoppingcart\\allshoppingcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\views\\listinglarge\\alllistinglarge.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|solutionrelative:nguyennhatnguyen2122110318\\views\\listinglarge\\alllistinglarge.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\controllers\\userregistercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|solutionrelative:nguyennhatnguyen2122110318\\controllers\\userregistercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\views\\listinggird\\alllistinggird.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|solutionrelative:nguyennhatnguyen2122110318\\views\\listinggird\\alllistinggird.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\controllers\\userlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|solutionrelative:nguyennhatnguyen2122110318\\controllers\\userlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|solutionrelative:nguyennhatnguyen2122110318\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\controllers\\listinglargecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|solutionrelative:nguyennhatnguyen2122110318\\controllers\\listinglargecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\views\\category\\allcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|solutionrelative:nguyennhatnguyen2122110318\\views\\category\\allcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\controllers\\listinggirdcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|solutionrelative:nguyennhatnguyen2122110318\\controllers\\listinggirdcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|solutionrelative:nguyennhatnguyen2122110318\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|solutionrelative:nguyennhatnguyen2122110318\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|solutionrelative:nguyennhatnguyen2122110318\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|solutionrelative:nguyennhatnguyen2122110318\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|solutionrelative:nguyennhatnguyen2122110318\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|solutionrelative:nguyennhatnguyen2122110318\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|c:\\users\\acer\\pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|solutionrelative:nguyennhatnguyen2122110318\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|solutionrelative:nguyennhatnguyen2122110318\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|c:\\users\\acer\\pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|solutionrelative:nguyennhatnguyen2122110318\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|solutionrelative:nguyennhatnguyen2122110318\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|c:\\users\\acer\\pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\views\\category\\allcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|solutionrelative:nguyennhatnguyen2122110318\\views\\category\\allcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|c:\\users\\acer\\pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|solutionrelative:nguyennhatnguyen2122110318\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|c:\\users\\acer\\pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|solutionrelative:nguyennhatnguyen2122110318\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|c:\\users\\acer\\pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\views\\listinggird\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|solutionrelative:nguyennhatnguyen2122110318\\views\\listinggird\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|c:\\users\\acer\\pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\controllers\\listinggirdcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|solutionrelative:nguyennhatnguyen2122110318\\controllers\\listinggirdcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|c:\\users\\acer\\pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\controllers\\listinglargecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|solutionrelative:nguyennhatnguyen2122110318\\controllers\\listinglargecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|c:\\users\\acer\\pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|solutionrelative:nguyennhatnguyen2122110318\\views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|c:\\users\\acer\\pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|solutionrelative:nguyennhatnguyen2122110318\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DDC089-8C98-477B-BC57-08275774812D}|nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318.csproj|solutionrelative:nguyennhatnguyen2122110318\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,104 +58,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AllShoppingCart.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Views\\ShoppingCart\\AllShoppingCart.cshtml",
-              "RelativeDocumentMoniker": "nguyennhatnguyen2122110318\\Views\\ShoppingCart\\AllShoppingCart.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Views\\ShoppingCart\\AllShoppingCart.cshtml",
-              "RelativeToolTip": "nguyennhatnguyen2122110318\\Views\\ShoppingCart\\AllShoppingCart.cshtml",
-              "ViewState": "AgIAAMkAAAAAAAAAAAAUwOMAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T12:46:06.559Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ShoppingCartController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Controllers\\ShoppingCartController.cs",
-              "RelativeDocumentMoniker": "nguyennhatnguyen2122110318\\Controllers\\ShoppingCartController.cs",
-              "ToolTip": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Controllers\\ShoppingCartController.cs",
-              "RelativeToolTip": "nguyennhatnguyen2122110318\\Controllers\\ShoppingCartController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T12:45:26.793Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AllListingGird.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Views\\ListingGird\\AllListingGird.cshtml",
-              "RelativeDocumentMoniker": "nguyennhatnguyen2122110318\\Views\\ListingGird\\AllListingGird.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Views\\ListingGird\\AllListingGird.cshtml",
-              "RelativeToolTip": "nguyennhatnguyen2122110318\\Views\\ListingGird\\AllListingGird.cshtml",
-              "ViewState": "AgIAABsCAAAAAAAAAAAUwCsCAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T12:34:08.247Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AllListingLarge.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Views\\ListingLarge\\AllListingLarge.cshtml",
-              "RelativeDocumentMoniker": "nguyennhatnguyen2122110318\\Views\\ListingLarge\\AllListingLarge.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Views\\ListingLarge\\AllListingLarge.cshtml",
-              "RelativeToolTip": "nguyennhatnguyen2122110318\\Views\\ListingLarge\\AllListingLarge.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUCAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T12:44:29.438Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Views\\UserLogin\\Login.cshtml",
-              "RelativeDocumentMoniker": "nguyennhatnguyen2122110318\\Views\\UserLogin\\Login.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Views\\UserLogin\\Login.cshtml",
-              "RelativeToolTip": "nguyennhatnguyen2122110318\\Views\\UserLogin\\Login.cshtml",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAUwHYAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T12:48:19.958Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Views\\UserRegister\\Register.cshtml",
-              "RelativeDocumentMoniker": "nguyennhatnguyen2122110318\\Views\\UserRegister\\Register.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Views\\UserRegister\\Register.cshtml",
-              "RelativeToolTip": "nguyennhatnguyen2122110318\\Views\\UserRegister\\Register.cshtml",
-              "ViewState": "AgIAABEAAAAAAAAAAAAUwE8AAABSAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "nguyennhatnguyen2122110318\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "nguyennhatnguyen2122110318\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAAAPQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T12:51:59.23Z",
+              "WhenOpened": "2025-01-17T11:13:41.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserLoginController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Controllers\\UserLoginController.cs",
-              "RelativeDocumentMoniker": "nguyennhatnguyen2122110318\\Controllers\\UserLoginController.cs",
-              "ToolTip": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Controllers\\UserLoginController.cs",
-              "RelativeToolTip": "nguyennhatnguyen2122110318\\Controllers\\UserLoginController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T12:48:03.516Z"
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "nguyennhatnguyen2122110318\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "nguyennhatnguyen2122110318\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T11:06:38.993Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserRegisterController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Controllers\\UserRegisterController.cs",
-              "RelativeDocumentMoniker": "nguyennhatnguyen2122110318\\Controllers\\UserRegisterController.cs",
-              "ToolTip": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Controllers\\UserRegisterController.cs",
-              "RelativeToolTip": "nguyennhatnguyen2122110318\\Controllers\\UserRegisterController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "HomeModel.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Models\\HomeModel.cs",
+              "RelativeDocumentMoniker": "nguyennhatnguyen2122110318\\Models\\HomeModel.cs",
+              "ToolTip": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Models\\HomeModel.cs",
+              "RelativeToolTip": "nguyennhatnguyen2122110318\\Models\\HomeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T12:48:50.502Z"
+              "WhenOpened": "2025-01-17T11:03:18.659Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -197,141 +111,113 @@
               "RelativeDocumentMoniker": "nguyennhatnguyen2122110318\\Controllers\\ListingLargeController.cs",
               "ToolTip": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Controllers\\ListingLargeController.cs",
               "RelativeToolTip": "nguyennhatnguyen2122110318\\Controllers\\ListingLargeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T12:43:53.184Z"
+              "WhenOpened": "2025-01-17T10:59:09.54Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "ListingGirdController.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Controllers\\ListingGirdController.cs",
               "RelativeDocumentMoniker": "nguyennhatnguyen2122110318\\Controllers\\ListingGirdController.cs",
               "ToolTip": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Controllers\\ListingGirdController.cs",
               "RelativeToolTip": "nguyennhatnguyen2122110318\\Controllers\\ListingGirdController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T12:33:37.815Z"
+              "WhenOpened": "2025-01-17T10:51:30.734Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "AllCategory.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Views\\Category\\AllCategory.cshtml",
-              "RelativeDocumentMoniker": "nguyennhatnguyen2122110318\\Views\\Category\\AllCategory.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Views\\Category\\AllCategory.cshtml",
-              "RelativeToolTip": "nguyennhatnguyen2122110318\\Views\\Category\\AllCategory.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALAAAABUAAAAAAAAAA==",
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Views\\Home\\Search.cshtml",
+              "RelativeDocumentMoniker": "nguyennhatnguyen2122110318\\Views\\Home\\Search.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Views\\Home\\Search.cshtml",
+              "RelativeToolTip": "nguyennhatnguyen2122110318\\Views\\Home\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T11:55:02.565Z"
+              "WhenOpened": "2025-01-17T10:50:28.569Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "nguyennhatnguyen2122110318\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "nguyennhatnguyen2122110318\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T11:54:30.895Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "nguyennhatnguyen2122110318\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "nguyennhatnguyen2122110318\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T11:40:32.224Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "nguyennhatnguyen2122110318\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "nguyennhatnguyen2122110318\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T11:39:29.697Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AdminAreaRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Areas\\Admin\\AdminAreaRegistration.cs",
-              "RelativeDocumentMoniker": "nguyennhatnguyen2122110318\\Areas\\Admin\\AdminAreaRegistration.cs",
-              "ToolTip": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Areas\\Admin\\AdminAreaRegistration.cs",
-              "RelativeToolTip": "nguyennhatnguyen2122110318\\Areas\\Admin\\AdminAreaRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T11:37:18.999Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "nguyennhatnguyen2122110318\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Controllers\\HomeController.cs",
               "RelativeToolTip": "nguyennhatnguyen2122110318\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAqwIIAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T11:27:54.992Z"
+              "WhenOpened": "2025-01-17T10:49:04.735Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Views\\Product\\Detail.cshtml",
-              "RelativeDocumentMoniker": "nguyennhatnguyen2122110318\\Views\\Product\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Views\\Product\\Detail.cshtml",
-              "RelativeToolTip": "nguyennhatnguyen2122110318\\Views\\Product\\Detail.cshtml",
-              "ViewState": "AgIAAJcAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T11:23:15.324Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "nguyennhatnguyen2122110318\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "nguyennhatnguyen2122110318\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T11:22:17.311Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "nguyennhatnguyen2122110318\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "nguyennhatnguyen2122110318\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAOgAAAAAAAAAAAAUwJECAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T10:39:51.847Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "nguyennhatnguyen2122110318\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "nguyennhatnguyen2122110318\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAL0AAAAAAAAAAAAAAKwAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAADgv0UAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T10:47:14.921Z"
+              "WhenOpened": "2025-01-17T10:42:14.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AllCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Views\\Category\\AllCategory.cshtml",
+              "RelativeDocumentMoniker": "nguyennhatnguyen2122110318\\Views\\Category\\AllCategory.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Views\\Category\\AllCategory.cshtml",
+              "RelativeToolTip": "nguyennhatnguyen2122110318\\Views\\Category\\AllCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T11:03:44.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "All.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Views\\ListingGird\\All.cshtml",
+              "RelativeDocumentMoniker": "nguyennhatnguyen2122110318\\Views\\ListingGird\\All.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Views\\ListingGird\\All.cshtml",
+              "RelativeToolTip": "nguyennhatnguyen2122110318\\Views\\ListingGird\\All.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T11:02:32.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "nguyennhatnguyen2122110318\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "nguyennhatnguyen2122110318\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwEEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:08:30.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "nguyennhatnguyen2122110318\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Pictures\\asp\\nguyennhatnguyen2122110318\\nguyennhatnguyen2122110318\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "nguyennhatnguyen2122110318\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:04:24.379Z"
             }
           ]
         }
